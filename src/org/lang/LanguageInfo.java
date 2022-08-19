@@ -7,6 +7,11 @@ System.out.println("tamil");
 public void egnlishLanguage() {
 	System.out.println("english");
 }
+
+private void hindi() {
+	// TODO Auto-generated method stub
+
+}
 public void hindiLanguage() {
 System.out.println("hindi");
 }
